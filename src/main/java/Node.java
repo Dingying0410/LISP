@@ -1,6 +1,3 @@
-/**
- * Created by dingyinglu on 3/20/18.
- */
 public class Node {
 
   public Node left;
